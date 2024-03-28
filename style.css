@@ -79,7 +79,6 @@ body {
     border: none;
     color: #05445E;
     width: 100%;
-    margin-bottom: 50px;
     font-size: 16px;
     border-radius: 5px;
     cursor: pointer;
@@ -92,6 +91,16 @@ body {
 .second-column {
     background-color: #189AB4;
     width: 50%;
-    padding: 20px;
+    padding: 10px 20px;
     color: white;
+}
+
+.header-2column {
+}
+
+.list-2column {
+}
+
+.groups-icon {
+    text-align: center;
 }
